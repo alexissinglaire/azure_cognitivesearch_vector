@@ -13,7 +13,7 @@ To create vectorized data, you can use any embedding model, but we recommend [Az
 
 This private preview requires billable resources. You'll need to cover the cost of running Azure Cognitive Search, as well as Azure OpenAI if you choose to use their embedding models.
 
-- [Azure Cognitive Search pricing](https://azure.microsoft.com/pricing/details/search/#pricing) for a tier (SKU) that's Basic or higher (see also [Plan and manage costs](https://learn.microsoft.com/azure/search/search-sku-manage-costs)).
+- [Azure Cognitive Search pricing](https://azure.microsoft.com/pricing/details/search/#pricing) (see also [Plan and manage costs](https://learn.microsoft.com/azure/search/search-sku-manage-costs)).
 
 - [Azure OpenAI pricing](https://azure.microsoft.com/pricing/details/cognitive-services/openai-service/) for metered usage of embedding models.
 
